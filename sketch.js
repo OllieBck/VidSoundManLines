@@ -1,3 +1,9 @@
+// takes the darkest points on a camera and renders them into spinning lines; line size varies based off of sound
+// code developed from:
+// Learning Processing   Daniel Shiffman  http://www.learningprocessing.com  Example 20-9: Mic input
+//https://github.com/ITPNYU/ICM-2015/blob/master/09_video_sound/01_sound/example_20_09_mic_input/sketch.js
+// and code by Daniel O'Sullivan for ITP ICM course https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday
+
 var vid; //element to hold video
 var img; //element to hold image
 var canvas; // element to hold canvas
